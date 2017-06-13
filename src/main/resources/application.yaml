@@ -1,0 +1,6 @@
+server:
+  port: 8080
+information:
+  version: @project.version@
+  description: @project.description@
+
